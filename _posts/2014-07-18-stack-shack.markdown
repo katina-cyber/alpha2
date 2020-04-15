@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2020
 client: UD CTF Team
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Simple stack data structure visualizer built with HTML, CSS, and JQuery. It is used frequently by members of the University of Delaware Capture the Flag team who are just starting out with binary exploitation to help them better understand how function stacks are composed and how to exploit them. 
 ---
